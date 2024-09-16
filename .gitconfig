@@ -1,0 +1,7 @@
+[user]
+	name = Charlie Mulholland
+#	email = <fill me in>
+[core]
+	editor = vim
+[merge]
+	tool = vimdiff
